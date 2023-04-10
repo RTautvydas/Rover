@@ -23,7 +23,7 @@ To run this project, you'll need:
 To run the project, open a terminal in the root folder and execute the following commands:
 
 ```sh
-cd src/SpaceRover.Api
+cd SpaceRover.Api
 dotnet run
 ```
 
@@ -34,6 +34,7 @@ This will start the API server, which can be accessed at http://localhost:5000.
 To run the tests, open a terminal in the root folder and execute the following command:
 
 ```sh
+cd SpaceRover.Tests
 dotnet test
 ```
 
