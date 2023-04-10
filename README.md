@@ -23,7 +23,7 @@ To run this project, you'll need:
 To run the project, open a terminal in the root folder and execute the following commands:
 
 ```sh
-cd SpaceRover.Api
+cd SpaceRover
 dotnet run
 ```
 
